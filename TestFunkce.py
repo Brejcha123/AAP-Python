@@ -9,7 +9,7 @@ def tri_krat():
         print("ahoj")
 
 def program_info():
-    print("Program má 3 funkce")
+    print("Program má 4 funkce")
     print("Umí napsat a zavolat určité funkce")
     print("Trvala mi napsat 6 minut")
 
